@@ -1,4 +1,4 @@
-# repositorio-Caso1# martur.io - Plataforma de Comunicación con Clientes
+repositorio-Caso1 martur.io - Plataforma de Comunicación con Clientes
 
 ## Descripción del Proyecto
 
